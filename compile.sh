@@ -1,0 +1,1 @@
+g++ -std=c++17 main.cpp parser.cpp scheduler.cpp -o main
